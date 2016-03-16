@@ -1,0 +1,4 @@
+#папка для игнорирования
+any_folder/
+any_folder2/*.txt
+/*.cfg
