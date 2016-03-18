@@ -3,3 +3,4 @@ Hello world, it is first changes \\first changes
 it changes for 6 lesson 
 it changes for 7 lesson 
 hello new_f branch\\
+Hello master branch 
