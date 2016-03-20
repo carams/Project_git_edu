@@ -4,3 +4,4 @@ it changes for 6 lesson
 it changes for 7 lesson 
 hello new_f branch\\
 Hello master branch 
+push commit branch \\lesson 12
